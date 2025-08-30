@@ -1,0 +1,8 @@
+Pdf_Q_A/*
+!Pdf_Q_A/app.py
+!Pdf_Q_A/README.md
+!Pdf_Q_A/requirements.txt
+!Pdf_Q_A/.env
+db/
+docs/
+unwanted/
